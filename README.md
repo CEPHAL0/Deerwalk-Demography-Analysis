@@ -10,6 +10,6 @@ The following information was collected:
 5. Family Size
 
 The analysis and report is available in medium at
->https://medium.com/@deerwalkdatasociety/deerwalk-demography-report-b04669bdaeac
+>https://medium.com/@deerwalkdatasociety/deerwalk-demography-report-f006033f26f4
 
 ## More Reports would be available in medium
