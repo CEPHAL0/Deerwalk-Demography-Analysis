@@ -7,4 +7,6 @@ The following information was collected:
 2. District Raised
 3. Mode of Transportation
 4. Commute Time
-5. 
+5. Family Size
+
+The analysis and report is available in medium at: 
