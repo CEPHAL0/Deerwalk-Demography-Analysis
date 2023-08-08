@@ -9,4 +9,5 @@ The following information was collected:
 4. Commute Time
 5. Family Size
 
-The analysis and report is available in medium at: 
+The analysis and report is available in medium at
+>https://medium.com/@deerwalkdatasociety/deerwalk-demography-report-b04669bdaeac
